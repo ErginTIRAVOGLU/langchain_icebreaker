@@ -1,0 +1,579 @@
+{
+    "public_identifier": "ergin-tiravoglu",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ergin-tiravoglu/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250128%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250128T155818Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0d92fdb05e53afff75ddc158165f24609e6a67c71549d0eac637da2e78fc1bb3",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ergin-tiravoglu/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250128%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250128T155818Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7e77606c2fa93ef084597f2372156dfb52073d277d4a4d3732365a9da63b63e1",
+    "first_name": "💻Ergin",
+    "last_name": "TIRAVOGLU",
+    "full_name": "💻Ergin TIRAVOGLU",
+    "follower_count": 63,
+    "occupation": "C# Developer at Fely",
+    "headline": "C# NET Core Backend Developer",
+    "summary": "In the past, I started to develop web projects that I developed with classical asp and php, since 2006 professionally in various software companies using C# Asp.net Framework and Php Codeigniter. I have used MsSql, MySql and MongoDb databases in my projects. In the future, I tried to keep my knowledge up to date by focusing on new technologies such as C# .net Core, Php Laravel, Nextjs and React.",
+    "country": "TR",
+    "country_full_name": "Türkiye",
+    "city": "İzmir",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2024
+            },
+            "ends_at": null,
+            "company": "Fely",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/fely-app",
+            "company_facebook_profile_url": null,
+            "title": "C# Developer",
+            "description": "Development of the Api backend of the Fely mobile application, which provides discounts and ease of payment from festivals to restaurants, cafes, beaches, hotels and stadiums. Writing the architecture of the web crawler application using the factory pattern. Development of web portal application using Asp.net Core Mvc.\n\nNLayer Architecture, Clean Architecture, REST, API, Backend, Mediatr CQRS, C# · Web Geliştirme · .NET · Arka Plan Web Geliştirmesi · .NET Core · ASP.NET Core · Model-View-Controller (MVC) · ASP.NET MVC",
+            "location": "İzmir, Türkiye",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/fely-app/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250128%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250128T155818Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=07cc54b7d95b57a7dcb3e1235681eb6bdf7a56cf7ad435696c516314e9be4676"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2023
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2023
+            },
+            "company": "GAMP",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/gampzg",
+            "company_facebook_profile_url": null,
+            "title": "Full Stack Developer",
+            "description": null,
+            "location": "İzmir, Türkiye",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/gampzg/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250128%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250128T155818Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=75715c56bcc6b4319ef57adabe4a9497adac001cac050f77b9c33fe5e90b5ab8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2023
+            },
+            "company": "Sniffer",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/snifferapp",
+            "company_facebook_profile_url": null,
+            "title": "Back End Developer",
+            "description": "Sniffer, a mobile application where pets and owners can find friends and match on the internet. (www.sniffersocial.com). Development of Sniffer's api with PHP Laravel. Publish using AWS EC2. Storage of images within the application using S3 Storage storage. Active use of CI/CD using GitHub with Codepipeline.\n\nStripe, JSON, AWS, Amazon Web Hizmetleri, Veritabanı Yönetimi, CodePipeline, PHP, Laravel, MySQL, İlişkisel Veritabanları, s3, Git, REST",
+            "location": "İzmir, Türkiye",
+            "logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQHP2C7gBLwPZQ/company-logo_400_400/company-logo_400_400/0/1700576318192/sniffersocial_logo?e=1736985600&v=beta&t=USei2mocDG_rVNYwsSPwT4-NptdxpwE9n3nYMzwATUg"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2023
+            },
+            "company": "Ulubey Domestic & Foreign Trade Corp",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ulubey-domestic-foreign-trade-inc",
+            "company_facebook_profile_url": null,
+            "title": "Full Stack Developer",
+            "description": "Developed a web panel using C# Asp.Net Core Mvc where financial, incoming and outgoing payments can be tracked, and developed an E-Mail bot using Python and integrated some of the incoming payments through this E-Mail bot.\n\nASP.NET Core · JSON · Veritabanı Yönetimi · Model-View-Controller (MVC) · .Net Core · .NET · İlişkisel Veritabanları · Git · Full-Stack Development · .NET Core",
+            "location": "İzmir, Türkiye",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/ulubey-domestic-foreign-trade-inc/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250128%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250128T155818Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=5775b351d659e5ccc67a2f6bbe78ed6852662866745963c319146398445c03e6"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2020
+            },
+            "company": "ELRA COMPUTER ELECTRONIC ELECTRICITY PRESS PUBLICATION INDUSTRY TRADE LIMITED COMPANY",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/34892266/",
+            "company_facebook_profile_url": null,
+            "title": "Web Developer",
+            "description": "Full Stack Web & Cross Platform Mobile Developer\n\nASP.NET Core · JSON · JavaScript · Veritabanı Yönetimi · PHP · Model-View-Controller (MVC) · .Net Core · CMS · .NET · İlişkisel Veritabanları · Laravel · Full-Stack Development · REST (Sunumsal Durum Aktarımı) · E-ticaret · .NET Core",
+            "location": "İzmir, Türkiye",
+            "logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQHEA5RAegLvcA/company-logo_400_400/company-logo_400_400/0/1630571514755?e=1736985600&v=beta&t=lmUuL5ASO1p-Umkq03l9utLvYUDhWfFGs5I06qOrVAo"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2019
+            },
+            "company": "Medyatik Fikir",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/medyatik-fikir",
+            "company_facebook_profile_url": null,
+            "title": "Back End Developer",
+            "description": "Developing websites and projects using C# Asp.net Mvc and Php Codeigniter.\n\nJSON · JavaScript · Veritabanı Yönetimi · PHP · Model-View-Controller (MVC) · .Net Core · CMS · .NET · İlişkisel Veritabanları · Git · Full-Stack Development · E-ticaret · ASP.NET · ASP.NET MVC",
+            "location": "Izmir, Turkey",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/medyatik-fikir/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250128%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250128T155818Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=61af98e7bf6e26f667c9770061587fb5dd8f74db9f46038859c6aa1f662b2e08"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "PI AUTOMATION CONTROL AND SOFTWARE",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/pi-otomasyon-kontrol-ve-yazilim",
+            "company_facebook_profile_url": null,
+            "title": "C# Developer",
+            "description": "Developing report pages using C# Asp.net.\n\nModel-View-Controller (MVC) · İlişkisel Veritabanları · .NET · ASP.NET · ASP.NET MVC",
+            "location": "Izmir, Turkey",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/pi-otomasyon-kontrol-ve-yazilim/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250128%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250128T155818Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=a89c2153b3ec0cba07d1cc8cccfe8ccb4e1d85b02f63cf6103147a5982433c33"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2014
+            },
+            "company": "Palwar Game",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/palwar-game",
+            "company_facebook_profile_url": null,
+            "title": "Android Developer",
+            "description": "Developing Java and Android based mobile game application using Eclips editor.\n\nAndroid development, Eclips Editor, JSON · İlişkisel Veritabanları · REST (Sunumsal Durum Aktarımı)",
+            "location": "Izmir, Turkey",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/palwar-game/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250128%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250128T155818Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=b93f8592005569fc10d783d2f107ec451d7c61150755af731968ec6190de11bc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2011
+            },
+            "company": "Kariasoft Internet and Software Company",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/kariasoft-internet-and-software-company",
+            "company_facebook_profile_url": null,
+            "title": "Full Stack Developer",
+            "description": "Developing projects using C# Asp.net Framework Web Forms, MVC and MSSQL.\n\nJSON · Veritabanı Yönetimi · Model-View-Controller (MVC) · CMS · İlişkisel Veritabanları · Full-Stack Development · REST (Sunumsal Durum Aktarımı) · E-ticaret · .NET · ASP.NET · ASP.NET MVC",
+            "location": "Izmir, Turkey",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/kariasoft-internet-and-software-company/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250128%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250128T155818Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=a42a6f2d18907306defedba85a6e86153fb908166f0d7d375bfc6cd5131e586e"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2023
+            },
+            "field_of_study": "Web Design and Coding",
+            "degree_name": "Associate Degree",
+            "school": "Anadolu University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/22684/",
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/anadoluuniv/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250128%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250128T155818Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=94145b02c5f6d5787ba93ac8150ec465ed2bd43419525ccb59864391894f1039",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2005
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2013
+            },
+            "field_of_study": "Business Administration",
+            "degree_name": "Bachelor degree",
+            "school": "Anadolu University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/22684/",
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/anadoluuniv/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250128%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250128T155818Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=94145b02c5f6d5787ba93ac8150ec465ed2bd43419525ccb59864391894f1039",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2003
+            },
+            "field_of_study": "Industrial Electronics",
+            "degree_name": "Vocational School Graduate",
+            "school": "Muğla Sıtkı Koçman Üniversitesi",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/15100999/",
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/mu%C4%9Fla-s%C4%B1tk%C4%B1-ko%C3%A7man-%C3%BCniversitesi/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250128%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250128T155818Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=1b5bbae9e022f6462f4627fbf90a8bb58a1a0f79fe226190f6ae452a603a2e68",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "Turkish"
+    ],
+    "languages_and_proficiencies": [
+        {
+            "name": "English",
+            "proficiency": "LIMITED_WORKING"
+        },
+        {
+            "name": "Turkish",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "İzmir Akser Bilişim Akademi - MS Server ve Profesyonel 2000, Active Directory, DNS, DHCP tasarım, kurulum, yönetim (2003-2004)",
+            "number": null
+        },
+        {
+            "name": "İzmir Akser Bilişim Akademi - MSSQL 2000 Kurulum, yönetim, programlama (2003-2004)",
+            "number": null
+        },
+        {
+            "name": "İzmir Bilgitek Egitim Merkezi - C#. NET 2.0, ASP.NET, MSSQL Server 2005 (2006)",
+            "number": null
+        }
+    ],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2019
+            },
+            "ends_at": null,
+            "title": "Company Website",
+            "description": "Corporate website where the company's services are promoted.",
+            "url": "https://www.elra.com.tr"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2019
+            },
+            "ends_at": null,
+            "title": "Web Based Task Tracking Program",
+            "description": "A web application developed by using c# asp.net and MsSql database that adds new tasks, changes, adds pictures and files related to the task, assigns a task to a person, prepares a task report, prints.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "ends_at": null,
+            "title": "ShortUrlNodejs",
+            "description": "Url shortening project developed using Node js, express, mongodb, passport.",
+            "url": "https://github.com/ErginTIRAVOGLU/ShortUrlNodejs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2017
+            },
+            "ends_at": null,
+            "title": "7 Minute Workout (Android App)",
+            "description": "A simple application developed using native script and Google Text to Speak.",
+            "url": "https://play.google.com/store/apps/details?id=com.tiravoglu.sevenminuteworkout&hl=tr"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2014
+            },
+            "ends_at": null,
+            "title": "Currency Bot Web Api",
+            "description": "Developed web api application using C# Asp.net Web Api and Mssql.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2020
+            },
+            "title": "KAPIA Kapak ve Kapı Kataloğu",
+            "description": "IONIC web html ve javascript kullanarak crossplatform katalog mobil uygulaması",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2013
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2014
+            },
+            "title": "Palwar",
+            "description": "Location-based, android mobile game application structures developed using Java, Eclips Ide and Api.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2010
+            },
+            "title": "Web Live Presentation",
+            "description": "Developed using C# Asp.net Mvc, Mssql, Adobe Flex ActionScript, Red 5 Media Server, it enables the viewers to register in order to broadcast live on the web page using webcam, to show the slides in a synchronized manner on the web page, to watch and to access this broadcast. project.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2009
+            },
+            "title": "Digital Information Screen and Management application (Digital Signage)",
+            "description": "A management application developed by using Adobe Flex, ActionScript, MySql database, displaying time information, weather forecast, news, horoscope information, pictures and advertising content with *.swf extension, and this data is entered hourly, daily.",
+            "url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 10,
+                "year": 2006
+            },
+            "title": "Currency Bot Msn Messenger Gold and Currency Bot",
+            "description": "Bot made using C# windows service, Mssql, external source api and xml, answering gold and currency information.",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2023
+            },
+            "ends_at": null,
+            "name": "SQL (Basic)",
+            "license_number": null,
+            "display_source": "hackerrank.com",
+            "authority": "HackerRank",
+            "url": "https://www.hackerrank.com/certificates/ddd9a5a85679"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2023
+            },
+            "ends_at": null,
+            "name": "Rest API (Intermediate)",
+            "license_number": null,
+            "display_source": "hackerrank.com",
+            "authority": "HackerRank",
+            "url": "https://www.hackerrank.com/certificates/ddd9a5a85679"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2023
+            },
+            "ends_at": null,
+            "name": "JavaScript (Basic)",
+            "license_number": null,
+            "display_source": "hackerrank.com",
+            "authority": "HackerRank",
+            "url": "https://www.hackerrank.com/certificates/1295562e2625"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2023
+            },
+            "ends_at": null,
+            "name": "SQL (Intermediate)",
+            "license_number": null,
+            "display_source": "hackerrank.com",
+            "authority": "HackerRank",
+            "url": "https://www.hackerrank.com/certificates/2463605734a6"
+        }
+    ],
+    "connections": 61,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/beso-kenchoshvili-172052b3?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABgIk2YBrEfAVfa8lusRN0hSPBWkoW5eyFI",
+            "name": "beso kenchoshvili",
+            "summary": "Senior Software Developer/Programmer",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aycaolmez?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAANGEgYBJmtIDCmcy82KW1uiAeT64Wba76o",
+            "name": "Ayça Ölmez",
+            "summary": "Senior Software Engineer | C# | ASP.NET Core | Web Developer | Team Lead",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/yusuf-andi%C3%A7-1b8874bb?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABmUIxwBnMA9yux-rIAB5E6f7MH3ki-Xvzw",
+            "name": "Yusuf Andiç",
+            "summary": "Microservices | Docker | .Net Core | Angular | Postgresql | ISO 27001,9001,20000-1 Lead Auditor",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/gokselteknik?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAbqtgoB-EAkLi-eNAOCmwozkW4klb6pzdc",
+            "name": "Göksel Teknik",
+            "summary": "Senior C# Developer Web Programming ASP.NET ASP.CORE MVC HTML5, CSS3, SQL Server, Java Scripts",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/muratcicek1?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAElg3acBfuHrfvVf5G9XC9kjjyNKaraiIX8",
+            "name": "Murat ÇİÇEK",
+            "summary": "Cybersecurity",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/v2/C4D07AQHHAd35BLTBug/group-logo_image-shrink_48x48/group-logo_image-shrink_48x48/0/1631544208524?e=1729555200&v=beta&t=u1yeEyBM62A6mEPO9WcKfLpz9VOMlZwF4U2fx8-rCF4",
+            "name": "I Love DotNet",
+            "url": "https://www.linkedin.com/groups/9083706"
+        }
+    ],
+    "skills": [
+        "Web Services API",
+        "Sorun Çözme",
+        "PostgreSQL",
+        "Web Application Development",
+        "Veritabanı Yönetimi",
+        "Node.js",
+        " Full-Stack Development ",
+        " Model-View-Controller (MVC)",
+        " ASP.NET Core",
+        "İlişkisel Veritabanları",
+        "REST (Sunumsal Durum Aktarımı)",
+        ".NET Core",
+        ".Net Core",
+        "RabbitMQ",
+        "Git",
+        "JSON",
+        "CMS",
+        "E-ticaret",
+        ".NET",
+        "Stripe",
+        "Amazon Web Hizmetleri (AWS)",
+        "s3",
+        "CodePipeline",
+        "Laravel",
+        "C#",
+        "ASP.NET",
+        "ASP.NET MVC",
+        "Android Uygulama Geliştirme",
+        "Yazılım Geliştirme",
+        "Web Geliştirme",
+        "SQL",
+        "HTML",
+        "JavaScript",
+        "Arka Plan Web Geliştirmesi",
+        "HTML5",
+        "PHP",
+        "codeigniter",
+        "AJAX",
+        "XML",
+        "MySQL",
+        "jQuery",
+        "OOP (Nesne Yönelimli Programlama)",
+        "Web Uygulamaları",
+        "Web Hizmetleri",
+        "CSS",
+        "Mobil Uygulamalar",
+        "Microsoft SQL Server",
+        "T-SQL"
+    ],
+    "inferred_salary": {
+        "min": null,
+        "max": null
+    },
+    "gender": null,
+    "birth_date": null,
+    "industry": "Computer Software",
+    "extra": {
+        "github_profile_id": null,
+        "twitter_profile_id": null,
+        "facebook_profile_id": null
+    },
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}
