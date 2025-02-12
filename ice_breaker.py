@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 import os
 from langchain_core.output_parsers import StrOutputParser
 
-from linkedin import scrape_linkedin_profile
+from linkedin_old import scrape_linkedin_profile
 
 information2="""
 Elon Reeve Musk (d. 28 Haziran 1971, Pretoria, Güney Afrika), mühendis, endüstriyel tasarımcı, teknoloji girişimcisi ve hayırseverdir.[1][2][3][4][5] Elon Musk, günümüz Amerika Birleşik Devletleri Hükümet Verimliliği Bakanı, SpaceX uzay şirketinin kurucusu, CEO'su ve mühendislik ile tasarım ofislerinin şefi;[6] erken yatırımcı,[7][not 1] Tesla otomotiv şirketinin CEO'su ve ürün mimarı,[10][11] X Corp.'un sahibi, yönetim kurulu başkanı ve CTO'su, The Boring Company ve XAI şirketinin kurucusu,[12] Neuralink, Starlink ile OpenAI'nin kurucu ortağı ve ayrıca ilk eş başkanıdır.[13] Doğduğu yer olan Güney Afrika Cumhuriyeti dışında, Kanada ve ABD vatandaşıdır[14] ve yirmi yaşında göç ettiği ABD'de yaşamaktadır.[15][16]
